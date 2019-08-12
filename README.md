@@ -1,4 +1,4 @@
-# NEWS
+# NEWS (Backend)
 
 * This application reports top news articles with the ability to save and upvote articles.
 * Users can search for news articles using keywords found in said articles.
